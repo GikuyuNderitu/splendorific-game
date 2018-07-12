@@ -1,0 +1,10 @@
+.Dashboard {
+  display: flex;
+  margin: 0 auto;
+  max-width: 95%;
+  flex-flow: row wrap;
+}
+
+.Dashboard > * {
+  margin: 10px 20px;
+}
